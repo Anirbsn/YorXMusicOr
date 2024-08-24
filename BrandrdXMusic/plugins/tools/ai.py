@@ -5,7 +5,7 @@ import os
 from typing import Union, Tuple, List
 from pyrogram import filters, types as t
 from lexica import AsyncClient
-from ANNIEMUSIC import app
+from BrandrdXMusic import app
 from lexica.constants import languageModels
 
 
