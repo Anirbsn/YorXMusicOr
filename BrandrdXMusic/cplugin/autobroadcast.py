@@ -11,15 +11,15 @@ from BrandrdXMusic.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://graph.org/file/2fd9703e31548f7a1aaaa.jpg"
+START_IMG_URLS = "https://graph.org/file/aec81e2bf9d700ade47e9.jpg"
 
 MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
 
-❤️सबसे ज्यादा पैसा देने वाला Platform पूरी दुनिया को हिला के रख दिया MISS मत करना⭐️
+❤️Hello Babe⭐️
 
-✅Game  को INVITE करो और 10,000₹ से 50,000₹ रोज कमाओ
+✅Huii Baby
 
-🫂Link:- https://t.me/BRANDED_PAID_CC ✅
+🫂Link:- https://t.me/BeAkatsuki✅
 
 **"""
 
@@ -28,8 +28,8 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ BRANDED PAID CC ๏",
-                url=f"https://t.me/BRANDED_PAID_CC",
+                "๏𝗦𝘂𝗽𝗽𝗼𝗿𝘁๏",
+                url=f"https://t.me/BeAkatsuki",
             )
         ]
     ]
@@ -41,16 +41,16 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 ➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... ❤️
 
-🔐ᴜꜱᴇ » [/start](https://t.me/BRANDED_KUDI_BOT?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
+🔐ᴜꜱᴇ » [/start](https://t.me/YorXMusic_Bot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @BRANDED_KUDI_BOT"""
+➲ ʙᴏᴛ :** @YorXMusic_Bot"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/BRANDED_KUDI_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/YorXMusic_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
