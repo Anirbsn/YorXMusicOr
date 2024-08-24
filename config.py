@@ -95,12 +95,12 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/df74d3cb75436c6f1e345.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/d57d12a1d0cd409d8eec4.jpg"
-STATS_IMG_URL = "https://graph.org/file/89e0800248a16eb93515b.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/6ce1ae50a475b058b79f9.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/a5af4a1a970b39a936c1d.jpg"
-STREAM_IMG_URL = "https://graph.org/file/e8a56835015bf849637cf.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/829b7bcb6eb706765b3d2.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/703a0c034d4ebc2d75d67.jpg"
+STATS_IMG_URL = "https://graph.org/file/aec81e2bf9d700ade47e9.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/d57d12a1d0cd409d8eec4.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/10ce162f985f7adadc774.jpg"
+STREAM_IMG_URL = "https://graph.org/file/e89041315b4b08c473287.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/aec81e2bf9d700ade47e9.jpg"
 YOUTUBE_IMG_URL = "https://graph.org/file/3c61dd910606440ee8f66.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/3c5ba5eaddad3b9aa2790.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/165eef1799e0edd83b56d.jpg"
